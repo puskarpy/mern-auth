@@ -16,4 +16,4 @@ This is a simple authentication system built using the **MERN** stack.
 ## Conclusion
 I just got into fullstack and I am trying to learn it by making different projects. This is one of them. 
 
-[My website](www.pushkarniraula.com.np)
+[My website](https://www.pushkarniraula.com.np)
